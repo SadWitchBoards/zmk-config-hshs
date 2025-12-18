@@ -55,7 +55,7 @@
  * | LGUI  |  ESC  | CTRL  |-------|  GUI  |  ALT  |SK SHFT|  Nav  |---|  Sym  | SPACE |  ALT  |  GUI  |-------| Left  | Down  | Right |
  */
                         bindings = <
-&kp  TILDE    &kp N1      &kp N2    &kp N3      &kp N4       &kp N5                                                                         &kp  N6  &kp  N7        &kp  N8        &kp  M9        &kp  N0        &kp  PGDN
+&kp  TILDE    &kp N1      &kp N2    &kp N3      &kp N4       &kp N5                                                                         &kp  N6    &kp  N7       &kp  N8        &kp  N9        &kp  N0        &kp  PGDN
 &kp  TAB      &kp  EXCL   &kp  AT        &kp  POUND        &kp  DLLR        &kp  PRCNT                                                 &kp  CARET        &kp  AMPS        &kp  STAR        &kp  LPAR        &kp  RPAR        &kp  SEMI
 &kp  LSHFT    &kp  SEMI     &kp  Q        &kp  J        &kp  K        &kp  X        &kp  Z                                             &kp  MINUS    &kp  UNDER        &kp  PIPE        &kp  RBKT        &kp  LBKT        &kp  RBRC       &kp  LBRC
 &kp  LALT   &kp  ESC      &kp  LCTRL                  &kp  LGUI     &kp  LALT     &sk  LSHIFT    &kp RET            &kp SPACE    &kp  BSPC    &kp  LALT     &kp  RGUI                   &kp  LEFT     &kp  DOWN     &kp  RIGHT
